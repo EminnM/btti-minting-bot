@@ -73,9 +73,9 @@ Go to the [GitHub](https://github.com/EminnM/btti-minting-bot/) repository.
      Extract the ZIP file to your desired location.
      Open terminal and type this command to go to the extracted folder:
 
-     ```bash
-     cd path/to/btti-minting-bot
-     ```
+   ```bash
+   cd path/to/btti-minting-bot
+   ```
 To run the bot
    ```bash
    python3 minting-bot.py
