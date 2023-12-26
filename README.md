@@ -29,7 +29,7 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      Yüklü Python sürümünü görüyorsanız kurulum tamamdır. Ardından şu komutları teker teker yazıp enter'a basın:
 
      ```bash
-     pip install xrpl-py
+     pip install web3
      pip install pwinput
 
      ```
