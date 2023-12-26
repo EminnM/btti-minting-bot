@@ -47,8 +47,10 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
 
      burdaki path/to kısmı bir değişken olup
      Diyelim ki dosyayı indirilenler klasörüne ayıkladınız o zaman örneğin
-     Cd downloads
-     Cd btti-minting-bot
+     ```bash
+     cd downloads
+     cd btti-minting-bot
+     ```
      şeklinde minting-bot.py dosyasının olduğu konuma gidebilirsiniz 
       
 
@@ -86,9 +88,11 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      cd path/to/btti-minting-bot
      ```
      burdaki path/to kısmı bir değişken olup
-     Diyelim ki dosyayı indirilenler klasörüne ayıkladınız o zaman örneğin
-     Cd downloads
-     Cd btti-minting-bot
+     Diyelim ki dosyayı indirilenler klasörüne ayıkladınız o zaman örneğin,
+     ```bash
+     cd downloads
+     cd btti-minting-bot
+     ```
      şeklinde minting-bot.py dosyasının olduğu konuma gidebilirsiniz 
      Botu çalıştırmak için
      ```bash
