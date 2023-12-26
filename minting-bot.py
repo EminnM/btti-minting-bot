@@ -2,12 +2,12 @@ from web3 import Web3
 from hexbytes import HexBytes
 import pwinput
 import time
-private_key = pwinput.pwinput("Gizli anahtarınızı girin:")
+private_key = pwinput.pwinput("Enter your private key:")
 
 
 rpc_link = 'https://rpc.bittorrentchain.io/' # btt
 
-no_to_mint = int(input("Kaç kere mintlemek istediğinizi girin"))
+no_to_mint = int(input("Enter the tx amount:"))
 
 hex_data = "0x646174613a2c7b2270223a226274742d3230222c226f70223a226d696e74222c227469636b223a2262747469222c22616d74223a2231303030227d"
 
@@ -18,7 +18,7 @@ if not w3.is_connected():
     raise ConnectionError("Failed to connect to node")
 
 for i in range(no_to_mint):
-    print(f"Mintlenmeye başlanan inscription sayısı: {i+1}")
+    print(f"The inscription being engraved is: {i+1}")
     sender_account = w3.eth.account.from_key(private_key)
     sender_address = sender_account.address
     chain_id = w3.eth.chain_id
@@ -39,5 +39,5 @@ for i in range(no_to_mint):
     txn_receipt = w3.eth.wait_for_transaction_receipt(txn_hash)
     tx_hash = txn_receipt.transactionHash.hex()
 
-    print(f"{i+1} . inscription tamamlandı, transaction hash: {tx_hash}.")
+    print(f"The inscription {i+1} is completed, transaction hash is {tx_hash}.")
     time.sleep(10)
