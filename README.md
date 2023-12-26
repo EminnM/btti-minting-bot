@@ -28,7 +28,7 @@ If Python is not installed, follow the steps below:
      ```
 If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
 
-    ```bash
+    ```
      pip install web3
      pip install pwinput
 
