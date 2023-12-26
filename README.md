@@ -23,16 +23,16 @@ If Python is not installed, follow the steps below:
    - Click the "Install Now" button and follow the on-screen instructions.
    - After installing Python, open the terminal and type the following command to verify the installation:
 
-     ```bash
-     python --version
-     ```
+        ```bash
+        python --version
+        ```
 If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
 
-    ```
-     pip install web3
-     pip install pwinput
+       ```bash
+        pip install web3
+        pip install pwinput
 
-     ```
+        ```
 
 
 Then go to [GitHub](https://github.com/EminnM/btti-minting-bot/).
