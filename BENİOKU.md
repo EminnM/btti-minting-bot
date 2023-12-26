@@ -55,8 +55,7 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
    - "Downloads" (İndirmeler) bölümüne gidin.
    - "Latest Python 3 Release" (En Son Python 3 Sürümü) bağlantısına tıklayın.
    - Sayfanın aşağısına inin ve macOS yükleyicilerini göreceksiniz. Sisteminize uygun olanı seçin.
-   - Yükleyiciyi çalıştırın ve yükleme sırasında "Add Python to PATH" (Python'u PATH'e ekle) seçeneğini işaretleyin.
-   - "Install Now" (Şimdi Yükle) düğmesine tıklayın ve ekrandaki talimatları izleyin.
+   - Yükleyiciye tıklayın ve ekrandaki talimatları izleyin.
    - Python'ı yükledikten sonra terminali açın ve yüklemeyi doğrulamak için şu komutu yazın:
      ```bash
      python --version
