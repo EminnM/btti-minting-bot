@@ -40,10 +40,10 @@ Then go to [GitHub](https://github.com/EminnM/btti-minting-bot/).
      Extract the ZIP file to your desired location.
      Open cmd and type this command to go to the extracted folder:
 
-    ```bash
-     cd path/to/btti-minting-bot
-     minting-bot.py
-     ```
+   ```bash
+   cd path/to/btti-minting-bot
+   minting-bot.py
+   ```
 ### For MacOs Users
 If Python is not installed on your computer, follow the steps below:
 
