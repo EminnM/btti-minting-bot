@@ -3,7 +3,7 @@ A python bot for minting btti.
 
 ## Get Your Private Key
 
-Change your private key to "Private Key" from Metamask or another budget. You will paste your private key into the terminal while running code.
+Change your private key to "Private Key" from Metamask or another wallet. You will paste your private key into the terminal while running code.
 
 ## Setup
 
@@ -23,7 +23,7 @@ If Python is not installed, follow the steps below:
    - Click the "Install Now" button and follow the on-screen instructions.
    - After installing Python, open the terminal and type the following command to verify the installation:
 
- ```bash
+     ```bash
      python --version
      ```
 If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
