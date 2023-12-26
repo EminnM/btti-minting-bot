@@ -62,9 +62,8 @@ If Python is not installed on your computer, follow the steps below:
     ```bash
      python --version
      ```
-If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
-
-
+   If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
+   
      ```bash
      pip install web3
      pip install pwinput
