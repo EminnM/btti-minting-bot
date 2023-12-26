@@ -28,7 +28,7 @@ If Python is not installed, follow the steps below:
      ```
 If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
 
-```bash
+    ```bash
      pip install web3
      pip install pwinput
 
@@ -41,7 +41,7 @@ Then go to [GitHub](https://github.com/EminnM/btti-minting-bot/).
      Extract the ZIP file to your desired location.
      Open cmd and type this command to go to the extracted folder:
 
-```bash
+    ```bash
      cd path/to/btti-minting-bot
      minting-bot.py
      ```
@@ -59,7 +59,7 @@ If Python is not installed on your computer, follow the steps below:
    - Click the "Install Now" button and follow the on-screen instructions.
    - After installing Python, open the terminal and type the following command to verify the installation:
 
- ```bash
+    ```bash
      python --version
      ```
 If you see the installed Python version, the installation is complete. Then type the following commands one by one and press enter:
@@ -68,7 +68,6 @@ If you see the installed Python version, the installation is complete. Then type
      ```bash
      pip install web3
      pip install pwinput
-
      ```
 Go to the [GitHub](https://github.com/EminnM/btti-minting-bot/) repository.
      Click the green "Code" button.
@@ -76,11 +75,11 @@ Go to the [GitHub](https://github.com/EminnM/btti-minting-bot/) repository.
      Extract the ZIP file to your desired location.
      Open terminal and type this command to go to the extracted folder:
 
-  ```bash
+     ```bash
      cd path/to/btti-minting-bot
      ```
 To run the bot
-  ```bash
+     ```bash
      python3 minting-bot.py
      ```
 
