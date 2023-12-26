@@ -62,7 +62,7 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      python --version
      ```
 
-     Yüklü Python sürümünü görmelisiniz. Ardından şu komutları yazın:
+     Yüklü Python sürümünü görüyorsanız kurulum tamamdır. Ardından şu komutları teker teker yazıp enter'a basın:
 
      ```bash
      pip install web3
