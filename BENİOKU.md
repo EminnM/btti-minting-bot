@@ -33,6 +33,8 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      pip install pwinput
 
      ```
+     web3 kütüphanesini indirirken hata alıyorsanız muhtemelen şu [video](https://www.youtube.com/watch?v=rcI1_e38BWs) sorununuzu çözecektir.
+     
 
   
      Sonrasında [GitHub](https://github.com/EminnM/btti-minting-bot/) sayfasına gidin.
