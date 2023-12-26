@@ -77,7 +77,7 @@ Go to the [GitHub](https://github.com/EminnM/btti-minting-bot/) repository.
      cd path/to/btti-minting-bot
      ```
 To run the bot
-     ```bash
-     python3 minting-bot.py
-     ```
+   ```bash
+   python3 minting-bot.py
+   ```
 
