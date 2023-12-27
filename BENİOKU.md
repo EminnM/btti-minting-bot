@@ -43,7 +43,7 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      ZIP dosyasını istediğiniz yere ayıklayın.
      Cmd'yi açın ve çıkarılan klasöre gitmek için şu komutu yazın:
      ```bash
-     cd path/to/btti-minting-bot
+     cd path/to/btti-minting-bot-main
      minting-bot.py
      ```
 
@@ -51,7 +51,7 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      Diyelim ki dosyayı indirilenler klasörüne ayıkladınız o zaman örneğin
      ```bash
      cd downloads
-     cd btti-minting-bot
+     cd btti-minting-bot-main
      ```
      şeklinde minting-bot.py dosyasının olduğu konuma gidebilirsiniz 
       
@@ -87,13 +87,13 @@ Eğer bilgisayarınızda Python yüklü değilse, aşağıdaki adımları takip 
      ZIP dosyasını istediğiniz yere çıkarın.
      Terminali açın ve çıkarılan klasöre gitmek için şu komutu yazın:
      ```bash
-     cd path/to/btti-minting-bot
+     cd path/to/btti-minting-bot-main
      ```
      burdaki path/to kısmı bir değişken olup
      Diyelim ki dosyayı indirilenler klasörüne ayıkladınız o zaman örneğin,
      ```bash
      cd downloads
-     cd btti-minting-bot
+     cd btti-minting-bot-main
      ```
      şeklinde minting-bot.py dosyasının olduğu konuma gidebilirsiniz 
      Botu çalıştırmak için
